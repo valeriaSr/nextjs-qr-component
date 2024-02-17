@@ -13,6 +13,7 @@ export default function QrCard({
             width={250}
             height={100}
             priority
+            unoptimized 
             />
             <p className="${jost.className} text-dark-blue text-xl font-extrabold text-center text-wrap pt-5 px-7">Improve your front-end skills by building projects</p>
             <p className="${jost.className} text-sm font-medium text-grayish-blue text-center text-wrap py-5 px-7">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
